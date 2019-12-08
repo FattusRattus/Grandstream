@@ -10,6 +10,7 @@ I was interested to working on scripts for some of the Grandstream phones I have
 After more research and further inspired by:
 
 http://davidjorm.blogspot.com/
+
 https://github.com/scarvell/grandstream_exploits
 
 Later after working on teh scripts, I also found:
@@ -22,6 +23,7 @@ The Scripts
 Currently, there are just two scripts:
 
 gxv3240-cam.py - This will scan a subnet for GXV3240 handsets, attempt to exploit them and exfiltrate images taken with the phone's onboard camera, having the option to also take pictures with the onboard camera. It does this via a built in TFTP server, which will create the folder tftp-cam.
+
 gxv3240-getpass.py - This is a password recovery script.
 
 
