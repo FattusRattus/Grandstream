@@ -13,7 +13,7 @@ http://davidjorm.blogspot.com/
 
 https://github.com/scarvell/grandstream_exploits
 
-Later after working on teh scripts, I also found:
+Later after working on the scripts, I also found:
 https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=23920
 
 
